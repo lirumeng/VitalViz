@@ -17,3 +17,8 @@
 [2m17:08:26[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/MimicDashboard.vue[22m
 [2m17:08:35[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/style.css[22m
 [2m17:08:43[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/style.css[22m
+[2m17:48:34[22m [36m[1m[vite][22m[39m [32mvite.config.js changed, restarting server...[39m
+[2m17:48:34[22m [36m[1m[vite][22m[39m server restarted.
+
+  [32m➜[39m  [1mLocal[22m:   [36mhttp://localhost:[1m5173[22m/[39m
+  [32m➜[39m  [1mNetwork[22m: [36mhttp://192.168.3.27:[1m5173[22m/[39m
