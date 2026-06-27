@@ -16,7 +16,7 @@ async function loadCsv() {
   errorMessage.value = "";
 
   try {
-    const response = await fetch("/data/metrics.csv");
+    const response = await fetch(`${import.meta.env.BASE_URL}data/metrics.csv`);
 
     if (!response.ok) {
       throw new Error(`CSV 请求失败: ${response.status}`);

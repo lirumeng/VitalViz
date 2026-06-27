@@ -32,7 +32,7 @@ const datasets = ref({
   diagnosisDict: []
 });
 
-const dataRoot = "/data/mimic-iii-clinical-database-demo-1.4";
+const dataRoot = `${import.meta.env.BASE_URL}data/mimic-iii-clinical-database-demo-1.4`;
 
 function parseDate(value) {
   return value ? new Date(value) : null;
