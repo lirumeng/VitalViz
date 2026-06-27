@@ -11,6 +11,8 @@ npm run dev
 
 ## 数据目录说明
 
+[数据来源](https://physionet.org/content/mimiciii-demo/1.4/)
+
 - 数据目录：`public/data/mimic-iii-clinical-database-demo-1.4`
 - 数据性质：MIMIC-III 的演示版临床数据库，包含患者、住院、ICU、医嘱、检验、护理记录等主题表
 - 常用关联键：
