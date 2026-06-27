@@ -1,5 +1,7 @@
 # VitalViz
 
+[项目预览](https://lirumeng.github.io/VitalViz/)
+
 当前仓库已包含一份 `MIMIC-III Clinical Database Demo v1.4` 示例数据，目录位于 `public/data/mimic-iii-clinical-database-demo-1.4`。下面按 CSV 文件逐一说明其内容含义，方便后续做 Vue 3 + D3 图表建模与数据分析。
 
 ## 项目启动
