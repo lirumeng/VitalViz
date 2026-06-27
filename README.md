@@ -250,3 +250,20 @@ npm run dev
 - 输入输出液体平衡图
 - 患者院内转运路径图
 - 细菌培养与药敏分布图
+## 在线访问
+
+- GitHub Pages 地址：`https://lirumeng.github.io/VitalViz/`
+- 如果刚完成部署，页面可能会有 1 到 10 分钟延迟，再刷新一次通常就会出现。
+
+## 部署说明
+
+```bash
+npm install
+npm run build
+npm run build:github
+```
+
+- GitHub Pages 工作流文件：`.github/workflows/deploy-pages.yml`
+- 推送到 `master` 后会自动触发 GitHub Actions 构建并部署
+- Vite 在 `github` 模式下会使用 `/VitalViz/` 作为基础路径
+- 仓库需要在 `Settings -> Pages -> Build and deployment` 中将 `Source` 设置为 `GitHub Actions`
