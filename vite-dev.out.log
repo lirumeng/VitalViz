@@ -1,0 +1,19 @@
+
+> vitalviz@0.0.0 dev
+> vite --host 0.0.0.0
+
+
+  [32m[1mVITE[22m v5.4.21[39m  [2mready in [0m[1m551[22m[2m[0m ms[22m
+
+  [32m➜[39m  [1mLocal[22m:   [36mhttp://localhost:[1m5173[22m/[39m
+  [32m➜[39m  [1mNetwork[22m: [36mhttp://10.8.0.6:[1m5173[22m/[39m
+  [32m➜[39m  [1mNetwork[22m: [36mhttp://192.168.3.27:[1m5173[22m/[39m
+[2m16:45:42[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/App.vue[22m
+[2m16:47:35[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2msrc/components/BarChartCard.vue[22m
+[2m16:48:14[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/style.css[22m
+[2m17:02:52[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/MimicDashboard.vue[22m
+[2m17:03:55[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/style.css[22m
+[2m17:08:12[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/MimicDashboard.vue[22m
+[2m17:08:26[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/MimicDashboard.vue[22m
+[2m17:08:35[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/style.css[22m
+[2m17:08:43[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/style.css[22m
